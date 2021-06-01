@@ -121,14 +121,15 @@ img {
     right: 0;
     left: 0;
     background-color: white;
-    transform: skewY(-2.4deg;
-    -webkit-transform: skewY(-2.4deg);
-    -moz-transform: skewY(-2.4deg);
-    -ms-transform: skewY(-2.4deg);
+    transform: skewY(-2.8deg);
+    -webkit-transform: skewY(-2.8deg);
+    -moz-transform: skewY(-2.8deg);
+    -ms-transform: skewY(-2.8deg);
 }
 
 
 /* Utilities */ 
+
 .container {
     max-width: 1100px;
     margin: 0 auto;
