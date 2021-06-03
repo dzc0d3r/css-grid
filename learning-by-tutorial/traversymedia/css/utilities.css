@@ -68,6 +68,15 @@
    color: #fff; 
 }
 
+.btn-dark a, .bg-dark a,
+.btn-light a, .bg-light a,
+.btn-secondary a, .bg-secondary a,
+.btn-primary a, .bg-primary a {
+    color: #fff;
+
+
+}
+
 
 .grid-3 {
     grid-template-columns: repeat(3,1fr);

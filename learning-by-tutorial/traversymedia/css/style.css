@@ -186,3 +186,18 @@ img {
 .languages .card:hover {
     transform: translateY(-15px);
 }
+
+/* Footer */
+
+.footer .social a {
+    margin: 0 10px;
+    
+}
+.footer .social i {
+    transition: transform .5s ease-out;
+}
+.footer .social i:hover {
+    transform: scale(110%);
+    color: var(--primary-color);
+    background-color: var(--dark-color);
+}
